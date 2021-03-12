@@ -14,6 +14,7 @@ function nextImg() {
       first.addClass("active")
     }
   })
+  
 }
 
 function prevImg() {
